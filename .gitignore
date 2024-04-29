@@ -1,4 +1,7 @@
 comps/
 env/
+videos/
+__pycache__/
+.env
 
 @DailyDoseOfInternet1.json

@@ -30,4 +30,4 @@ spotipy==2.23.0
 tqdm==4.66.1
 urllib3==1.26.18
 websockets==12.0
-yt-dlp @ https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz#sha256=9c15ddc3436071f142088546c065c5f9368d0fbb1564dfa92aaf7412a4159d22
+yt-dlp==2023.12.30
